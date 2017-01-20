@@ -1,0 +1,17 @@
+body {
+  margin-top: 40px;
+  background-color: #000;
+  color: #fff;
+}
+
+.thegif {
+  height: 300px;
+  max-height: 300px;
+}
+img {
+  height: 280px;
+}
+
+.nav-wrapper {
+  background-color: #80deea;
+}
